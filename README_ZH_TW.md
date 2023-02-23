@@ -38,7 +38,7 @@
 
 2. 初始安裝 [Vundle]:
 
-   `$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+   `$ git clone https://github.com/Kernelily/Vundle.git ~/.vim/bundle/Vundle.vim`
 
 3. 配置插件 :
 
